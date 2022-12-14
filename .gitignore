@@ -1,0 +1,7 @@
+data/*
+model/
+.idea/
+.DS_Store
+__pycache__
+*.mid
+requirement.txt
